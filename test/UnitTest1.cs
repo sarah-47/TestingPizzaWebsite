@@ -29,8 +29,8 @@ namespace test
             driver.Navigate().GoToUrl("https://localhost:44355/");
             driver.Manage().Window.Maximize();
 
-
-            var ss=driver.FindElement(By.Name("Order"));
+            //order some pizza with different quantities to test the cart  
+            var ss =driver.FindElement(By.Name("Order"));
             act.DoubleClick(ss).Build().Perform();
             Thread.Sleep(2000);
 
@@ -41,25 +41,32 @@ namespace test
             driver.FindElement(By.XPath("/html/body/div/main/div/div/div[2]/div/div/input")).Click();
             Thread.Sleep(2000);
 
-
+            //go to the cart to view the orders
             driver.FindElement(By.LinkText("Cart")).Click();
 
-            /* ;
-             IWebElement wb2 = 
-             act.DoubleClick(wb2);
-            // Driver.FindElements(By.XPath("input[onclick=AddToCart(2)]"));
+            //testing the remove button in the cart
+            driver.FindElement(By.Name("Remove")).Click();
+            driver.Navigate().Refresh();
+            Thread.Sleep(10000);
 
-                         IList <IWebElement> orderButtons = Driver.FindElements(By.CssSelector("input[onclick=AddToCart(2)]"));
-                         foreach(IWebElement t in orderButtons)
-                         {
-                             t.Click();
-                         }
+            //Confirm The Order
+            driver.FindElement(By.Name("Confirm Order")).Click();
 
 
-                         Thread.Sleep(10000);
-                         Driver.Close();*/
+            Thread.Sleep(10000);
+            driver.Close();
 
-            Assert.Pass();
+            /*
+                                     IList <IWebElement> orderButtons = Driver.FindElements(By.CssSelector("input[onclick=AddToCart(2)]"));
+                                     foreach(IWebElement t in orderButtons)
+                                     {
+                                         t.Click();
+                                     }
+
+
+                                   */
+
+            //  Assert.Pass();
         }
     }
 }

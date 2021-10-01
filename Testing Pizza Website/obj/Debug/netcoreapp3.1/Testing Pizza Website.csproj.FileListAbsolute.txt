@@ -1,0 +1,21 @@
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\bin\Debug\netcoreapp3.1\PizzaWebsite.Views.dll
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\bin\Debug\netcoreapp3.1\PizzaWebsite.Views.pdb
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\bin\Debug\netcoreapp3.1\PizzaWebsite.deps.json
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\bin\Debug\netcoreapp3.1\PizzaWebsite.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\bin\Debug\netcoreapp3.1\PizzaWebsite.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\bin\Debug\netcoreapp3.1\PizzaWebsite.exe
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\bin\Debug\netcoreapp3.1\Testing Pizza Website.deps.json
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\bin\Debug\netcoreapp3.1\Testing Pizza Website.dll
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\bin\Debug\netcoreapp3.1\Testing Pizza Website.pdb
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\bin\Debug\netcoreapp3.1\PizzaWebsite.dll
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\bin\Debug\netcoreapp3.1\PizzaWebsite.pdb
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\obj\Debug\netcoreapp3.1\Testing Pizza Website.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\obj\Debug\netcoreapp3.1\Testing Pizza Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\obj\Debug\netcoreapp3.1\Testing Pizza Website.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\obj\Debug\netcoreapp3.1\Testing Pizza Website.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\obj\Debug\netcoreapp3.1\Testing Pizza Website.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\obj\Debug\netcoreapp3.1\Testing Pizza Website.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\obj\Debug\netcoreapp3.1\Testing Pizza Website.dll
+C:\Users\Lenovo\source\repos\Testing Pizza Website\Testing Pizza Website\obj\Debug\netcoreapp3.1\Testing Pizza Website.pdb

@@ -87,7 +87,6 @@ C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\
 C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Lenovo\source\repos\Testing Pizza Website\test\obj\Debug\netcoreapp3.1\test.csproj.AssemblyReference.cache
 C:\Users\Lenovo\source\repos\Testing Pizza Website\test\obj\Debug\netcoreapp3.1\test.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Lenovo\source\repos\Testing Pizza Website\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
 C:\Users\Lenovo\source\repos\Testing Pizza Website\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
@@ -97,3 +96,17 @@ C:\Users\Lenovo\source\repos\Testing Pizza Website\test\obj\Debug\netcoreapp3.1\
 C:\Users\Lenovo\source\repos\Testing Pizza Website\test\obj\Debug\netcoreapp3.1\test.pdb
 C:\Users\Lenovo\source\repos\Testing Pizza Website\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\BoDi.dll
+C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\Cucumber.Messages.dll
+C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\Gherkin.dll
+C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.dll
+C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\SpecFlow.Internal.Json.dll
+C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\source\repos\Testing Pizza Website\test\obj\Debug\netcoreapp3.1\test.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Testing Pizza Website\test\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
